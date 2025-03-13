@@ -1,3 +1,5 @@
+Please refer to this: Red_wine_quality_prediction.ipynb
+
 # Implementing ML algorithms using dataset from uci-repository 'wine_red-quality' to find the best model out of following:
 1.Linear Regression
 2.Ridge
